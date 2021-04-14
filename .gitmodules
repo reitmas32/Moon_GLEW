@@ -1,0 +1,7 @@
+[submodule "vendor/Moon"]
+	path = vendor/Moon
+	url = https://github.com/KEGEStudios/Moon.git
+
+[submodule "vendor/glfw"]
+	path = vendor/glfw
+	url = https://github.com/glfw/glfw.git
